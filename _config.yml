@@ -4,8 +4,18 @@ tagline: Because Testing is NaN
 email: iesmite@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "http://martialtesting.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
+github:  [metadata]
+# from github documentation
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+ noscript: false
+# //from github documentation
+
 # Theme customization - please change from the defaults!
 theme:
   # Color for sidebar bar, links, etc
@@ -37,7 +47,9 @@ permalink:        pretty
 
 # Pagination config
 paginate: 3
-gems: [jekyll-paginate]
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
 paginate_path: "page:num"
 
 # Files/Folders to be excluded from generated _site folder
@@ -54,3 +66,7 @@ exclude:
 sass:
   sass_dir: assets/css/_sass
   style: :compressed
+
+kramdown:
+ input: GFM
+ hard_wrap: false
