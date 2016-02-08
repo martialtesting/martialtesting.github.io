@@ -14,7 +14,7 @@ author: "Andres Curcio"
 
 ¡Hello! Today, and as the title has it, in our post at hand we want to go through one of every Testers’ most valuable assets, and that is actively working with our mind, and particularly, working with our mind building maps.
 
-![MT 101 - Figure 1](/assets/mediamt101-1.png)
+![MT 101 - Figure 1](/assets/media/mt101-1.png)
 
 ## First things first - So, what is a Mind Map?
 
