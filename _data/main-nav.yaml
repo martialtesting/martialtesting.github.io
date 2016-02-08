@@ -1,4 +1,6 @@
-- title: "About Us" # Title/Caption of the menu item
-  href: "/about" # the page where it pointed
+- title: "Sites We Follow"
+  href: "/sites-we-follow"
 - title: "Blog Archive"
   href: "/archive"
+- title: "About Us" # Title/Caption of the menu item
+  href: "/about" # the page where it pointed
