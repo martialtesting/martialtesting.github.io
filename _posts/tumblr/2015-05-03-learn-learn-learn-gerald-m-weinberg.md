@@ -19,7 +19,7 @@ Hey, hello! How have you been? As you can see from the title in today’s post, 
 
 You see, as I started in this challenging craft of software testing, it quickly dawn on me that despite my knowledge would help me to give value, I still had **A LOT TO LEARN**, and instead of bringing me down, that just ignited and fuelled me to go after what I considered would need to quench my thirst for knowledge.
 
-![Learn](/assets/learn.jpg)
+![Learn](/assets/media/learn.jpg)
 
 Time has passed (a few years now), and luckily, I can still say that there’s **A LOT TO LEARN :)**
 

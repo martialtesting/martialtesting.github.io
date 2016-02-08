@@ -17,7 +17,7 @@ author: "Andres Curcio"
 
 Last week, on April the 13th and April the 14th took place one of the most important events in terms of software testing, I am talking about the [Testing UY 2](http://www.testing.uy), and just like with its first edition I had the chance to attend it.
 
-![Testing Uy](/assets/testing-uy.png)
+![Testing Uy](/assets/media/testing-uy.png)
 
 This edition differentiated from its predecessor in several points. Some of which:
 

@@ -14,7 +14,7 @@ Probably one of the most complicated problems to solve when planning a project f
 
 Besides, jumping to a conclusion of the type "I’ll develop 1 automated test in X given time" measured from an average is not really that useful, it would be the equivalent as saying something as the following: "my development team is capable of developing one feature per week".
 
-![Estimations](/assets/estimations.jpg)
+![Estimations](/assets/media/estimations.jpg)
 
 
 One of the most widely employed strategies is that of “Expert’s Judgement”, in which an experienced automation tester or group of them, determine through their understanding and experience how long it should take them to automate a set of tests. Clearly, either by the absence of another approach or framework, that one is better than not estimating at all, still, from my point of view the greatest weakness it has is that we are unable to improve it, whether we overestimated or underestimated, what should we do to improve the way in which we estimate if technical problems and the model of reality is different? Even if we were before similar scenarios, how should we improve that approach?

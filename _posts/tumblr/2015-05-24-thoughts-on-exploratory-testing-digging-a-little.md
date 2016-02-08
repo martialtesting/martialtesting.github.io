@@ -26,7 +26,7 @@ I was employed as a Quality Assurance Engineer, and my responsibilities were bui
 
 Therefore, at the very beginning and out of lack of knowledge, real understanding, and expertise, "doing exploratory testing" felt a lot like this:
 
-![Monkeys](/assets/monkeys.png)
+![Monkeys](/assets/media/monkeys.png)
 
 >SO, WHAT DOES EXPLORATION STANDS FOR ME?
 
@@ -46,7 +46,7 @@ That definition is a mouthful, isn’t it? You see, it mentions plenty of things
 
 So, in time, **exploratory testing** and **testing** itself, started looking and continued looking like this instead:
 
-![Play](/assets/play.png)
+![Play](/assets/media/play.png)
 
 Because all those activities are being done in parallel, and, considering the context of the test item, **Exploratory Testing** started making a lot more sense as opposed to following a script, which most likely would easily and rapidly become outdated, and working upon them would take a lot of time. **Exploratory Testing** came out on top as a more dynamic, faster, efficient approach with which I would be able to provide value onto the team.
 

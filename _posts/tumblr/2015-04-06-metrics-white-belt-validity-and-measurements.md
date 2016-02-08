@@ -9,7 +9,7 @@ author: "Andres Curcio"
 ---
 ¡Hey! We are back.As promised, in our last post we said we would be  a series of posts on Metrics, we are starting out with the white belt
 
-![Metrics White Belt](/assets/metrics-white-belt.png)
+![Metrics White Belt](/assets/media/metrics-white-belt.png)
 
 With that said, I would like to share a quote and a definition with you.
 

@@ -10,7 +10,7 @@ author: "Andres Curcio"
 
 **What is the role of a tester?** That's a question I've pondered about several times, are we supposed to just break things? to spot fallacies? to think negatively?
 
-![Tester Role](/assets/tester-role.png)
+![Tester Role](/assets/media/tester-role.png)
 
 To begin with, let's go over the definition of role. [According to Merriam-Webster, a role is defined as follows](http://www.merriam-webster.com/dictionary/role):
 
