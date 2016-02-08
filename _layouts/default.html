@@ -102,6 +102,16 @@
 
     </script>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+      //hack to add target=_blank to external links without make noise in markdown
+      var domain_root = document.location.protocol+'//'+document.location.host;
+      var all_links = $('a').each(function(index,element){
+        if(element.href.substr(0,domain_root.length) !== domain_root)
+        {
+          element.target = '_blank';
+        }
+      });
+    </script>
     <script async type="text/javascript" src="{{ '/assets/js/gaya.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 
     {% comment %} Google Analytics {% endcomment %}
