@@ -4,6 +4,7 @@ title: Welcome to the Metrics’ World
 date: '2015-03-26T00:49:04-03:00'
 tags: []
 tumblr_url: http://www.martialtesting.com/post/114646578144/welcome-to-the-metrics-world
+author: "Andres Curcio"
 ---
 Some time ago, after a brainstorming session, one of the topics which came to our minds was related to metrics. Due to its complexity, as well as the wide range of approaches to the subject, we came to the conclusion it'd be better to create a series of posts.
 

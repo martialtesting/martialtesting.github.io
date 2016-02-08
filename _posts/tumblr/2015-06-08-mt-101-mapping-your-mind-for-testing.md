@@ -9,6 +9,7 @@ tags:
 - mapping
 - exploration
 tumblr_url: http://www.martialtesting.com/post/121068353114/mt-101-mapping-your-mind-for-testing
+author: "Andres Curcio"
 ---
 
 ¡Hello! Today, and as the title has it, in our post at hand we want to go through one of every Testers’ most valuable assets, and that is actively working with our mind, and particularly, working with our mind building maps.

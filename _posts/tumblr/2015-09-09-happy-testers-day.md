@@ -9,6 +9,7 @@ tags:
 - bug
 - celebration
 tumblr_url: http://www.martialtesting.com/post/128748934279/happy-testers-day
+author: "Andres Curcio"
 ---
 Hello to everyone!
 

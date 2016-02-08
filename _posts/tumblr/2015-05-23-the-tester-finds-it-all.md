@@ -10,6 +10,7 @@ tags:
 - agile testing days
 - agile testing
 tumblr_url: http://www.martialtesting.com/post/119699310769/the-tester-finds-it-all
+author: "Andres Curcio"
 ---
 Not long ago, I came across with a very funny song, which, for some reason(s) seems dead accurate.
 

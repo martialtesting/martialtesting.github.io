@@ -4,6 +4,7 @@ title: Aaaand the Martial Testers are back!
 date: '2014-10-02T01:06:37-03:00'
 tags: []
 tumblr_url: http://www.martialtesting.com/post/98952270099/aaaand-the-martial-testers-are-back
+author: "Andres Curcio"
 ---
 Wow, it has been quite a long time since we last wrote anything at all, this post will be brief, all we want to do is let you know that we are back and eager to start sharing and getting feedback from you.
 

@@ -11,6 +11,8 @@ tags:
 - buenosaires
 - testing
 tumblr_url: http://www.martialtesting.com/post/135782117454/testingar-the-coming-of-the-first-meetup-for
+author: "Andres Curcio"
+
 ---
 ![Testing Meetup](/assets/meetup.png)
 
