@@ -14,7 +14,7 @@ author: "Andres Curcio"
 
 ¡Hello! Today, and as the title has it, in our post at hand we want to go through one of every Testers’ most valuable assets, and that is actively working with our mind, and particularly, working with our mind building maps.
 
-![MT 101 - Figure 1](/assets/mt101-1.png)
+![MT 101 - Figure 1](/assets/mediamt101-1.png)
 
 ## First things first - So, what is a Mind Map?
 
@@ -68,10 +68,10 @@ Last, yet most certainly not least, as the sub-title already mentions it, a pict
 
 What is the reason? Simply put, the brain processes images instantly whilst also acting as a visual stimuli for recalling information. Furthermore, using images for visual stimuli is a means for using more brain power, than for example, trying to learn something by endlessly repeating it. Usually, a mind map will look like this:
 
-![MT 101 - Figure 2](/assets/mt101-2.png)
+![MT 101 - Figure 2](/assets/media/mt101-2.png)
 
 All in all, we wanted to first share with you a glimpse of what **Mind Maps "are"** and **"what they can do"**. In future posts, we will work on giving you further details of how we have used them in our professional practice.
 
-![MT 101 - Figure 3](/assets/mt101-3.jpg)
+![MT 101 - Figure 3](/assets/media/mt101-3.jpg)
 
 For the time being, have you used mind maps before? If so, how and when have you used them? What were the challenges you faced while learning how to use mind maps? Did you find your first mind map to be complicated? Let us know about your thoughts and experiences :)

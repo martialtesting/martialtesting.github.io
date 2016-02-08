@@ -11,7 +11,7 @@ author: "Ignacio Esmite"
 ---
 Hello everyone! Today as a sequel to our last article, we want to kick off a series of blog posts related to the usage of mind maps for testing. The aim of the articles are a compendium of ideas and experiences we have collected over the course of time while using mind maps. Please share your thoughts, let’s keep an open discussion about it to keep on learning and improving our day to day work :)
 
-![Mindmaps in testing](/assets/mmtesting.png)
+![Mindmaps in testing](/assets/media/mmtesting.png)
 
 >This mind map will be extended in each new blog post from this series.
 

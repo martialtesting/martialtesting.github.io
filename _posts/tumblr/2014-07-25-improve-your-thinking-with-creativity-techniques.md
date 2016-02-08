@@ -14,7 +14,7 @@ Well, how should we start with this one… You are not a ZOMBIE!
 Some time ago as this blog came into the light, we began speaking about creativity in testing by writing and referring to a technique developed by Doctor Edward de Bono named after the Six Thinking Hats, now we want to further develop that topic, not only because it is quite vast, but also because it should be a part of every testers’ skill-set.
 
 
-![Creativity](/assets/creativity.jpg)
+![Creativity](/assets/media/creativity.jpg)
 
 
 Now, at first we began with a statement, let me repeat it… "You are NOT a ZOMBIE!". For the sake of understanding such a complicated concept, let’s continue with the following phrase:

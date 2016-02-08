@@ -14,7 +14,7 @@ tumblr_url: http://www.martialtesting.com/post/135782117454/testingar-the-coming
 author: "Andres Curcio"
 
 ---
-![Testing Meetup](/assets/meetup.png)
+![Testing Meetup](/assets/media/meetup.png)
 
 Hello! How is it going? Today I’d like sharing some awesome news.
 

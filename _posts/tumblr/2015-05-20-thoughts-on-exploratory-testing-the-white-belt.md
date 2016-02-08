@@ -21,7 +21,7 @@ I’d like to start our journey sharing a definition, which has been extracted f
 
 >"So, to qualify as exploration a journey had to be credible, had to involve hardship and risk, and had to include the novelty of discovery. Thereafter, like cricket it was somewhat hard to explain to the uninitiated. But one element was absolutely vital; indeed it was precisely that which distinguished the age of exploration from previous ages of discovery and which necessitated the adoption of the word 'exploration'. It was, quite simply, a reverence for science."
 
-![ET](/assets/et.jpg)
+![ET](/assets/media/et.jpg)
 
 Little did I know (to say the least) about this approach when I first started working and learning about testing a few years ago now. However, as time passed by, and more knowledge unfolded on the matter, this approach started drawing my attention. You see, as the previous definition puts it, there’s an emphasis on **discovery through exploring unknown territory,** and that demanded skill, courage, curiosity, a constant willingness [to learn]({% post_url 2015-05-03-learn-learn-learn-gerald-m-weinberg %}), quickly adapt and improvise, as well as revise your map and re-plan, should your original ideas you set out on your journey be mistaken.
 

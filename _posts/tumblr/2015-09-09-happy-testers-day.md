@@ -19,7 +19,7 @@ For those of you who may not know, today it is September, Tuesday the 9th, and t
 
 Without further ado, and because knowing a little history helps us know and understand where we are, and also, helps us plan where we should head to, we’d like sharing a little history
 
-![Happy Testers Day](/assets/happy.jpg)
+![Happy Testers Day](/assets/media/happy.jpg)
 
 It dates back to 1947, whilst the team in charge of working on the Mark II computer, which would come as the successor to the ASCC Mark I, shared their discovery of what would become the first report of an error caused by a bug, and in that case, an actual bug. Apparently, the supercomputer had a problem in an electromagnetic relay, and when the problem was investigated, the team came across that the problem was being caused by a moth, its presence in the supercomputer was causing the relay to stay open.
 

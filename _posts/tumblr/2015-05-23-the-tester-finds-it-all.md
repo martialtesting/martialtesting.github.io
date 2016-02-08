@@ -14,7 +14,7 @@ author: "Andres Curcio"
 ---
 Not long ago, I came across with a very funny song, which, for some reason(s) seems dead accurate.
 
-![Finds it all](/assets/error.jpg)
+![Finds it all](/assets/media/error.jpg)
 
 
 It is interpreted by [Vagif Abilov](https://twitter.com/ooobject), and the video is available in the [following link](https://www.youtube.com/watch?v=1TBzP0baOBM), and it belongs to a publication of [Agile Testing Days](http://www.agiletestingdays.com). 

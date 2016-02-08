@@ -34,7 +34,7 @@ As already mentioned in this post, it is an approach and as such, it gives us so
 - It helps us while undergoing scrutiny with stakeholders, and also,
 - **To improve the coverage of our future test sessions, by using the knowledge acquired from the results of our past test sessions.** Employing that acquired knowledge will have as a consequence on our tests, that they will grow stronger and smarter, and ultimately, the coverage of ours tests will also be improved.
 
-![SBET](/assets/sbet1.png)
+![SBET](/assets/media/sbet1.png)
 
 As you may have already noticed, the post began with the definition by Bach, now, to stress the last point, I’d like to share the following adaptation by [Elisabeth Hendrickson](https://www.linkedin.com/profile/in/testobsessed):
 
@@ -58,7 +58,7 @@ Don’t get me wrong, I am not discarding scripted tests, not at all, because I 
 
 > WHAT DOES A SESSION LOOKS LIKE?
 
-![SBET](/assets/sbet2.png)
+![SBET](/assets/media/sbet2.png)
 
 The session’s report I am sharing here, it’s the same the Bach’s brothers have developed and shared with the community, and also, it’s the format I have used the most either in a piece of paper, a mind map, a plain text file, or a spreadsheet, but that… that is something we will dig into in other posts. In the meantime, let me share with you the components and what they are for:
 

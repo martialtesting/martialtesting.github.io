@@ -12,7 +12,7 @@ author: "Andres Curcio"
 ---
 "Creativity is not for testers!"... and now that I have your attention :) let’s move to the real post.  
 
-![Six Thinking Hats](/assets/six-thinking-hats.png)
+![Six Thinking Hats](/assets/media/six-thinking-hats.png)
 
 Some time ago I purchased a book written by Dr. Edward de Bono about Parallel Thinking, also known as “The Six Thinking Hats”.
 

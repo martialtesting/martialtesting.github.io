@@ -24,7 +24,7 @@ Let’s get started taking our first baby step, because as it is expressed in a 
 
 ### Baby Step Number One: WALK YOUR TALK
 
-![Exploratory approach - Figure 1](/assets/ea1.jpg)
+![Exploratory approach - Figure 1](/assets/media/ea1.jpg)
 
 More often than not, you will come into a team that is already working/operating in a certain fashion, and because of it (provided you are in that situation), making a compelling presentation will play a key role. On the other hand, you may have the rare chance of already working with either [Exploratory Testing]({% post_url 2015-05-24-thoughts-on-exploratory-testing-digging-a-little %}), or with [Session Based ET]({% post_url 2015-05-31-session-based-exploratory-testing-a-first %}), or maybe even with both, if that is your situation then two things, the first one is that you are a lucky person :) and the second one is that you can skip this section of the post, otherwise, if your case looks more like the first scenario, keep on reading.
 
@@ -36,7 +36,7 @@ Why is the previous important? Because, having a solid foundation on the subject
 
 ### Baby Step Number Two: PROPOSE AN EXPERIMENT WITH A P.O.C.
 
-![Exploratory approach - Figure 2](/assets/ea2.jpg)
+![Exploratory approach - Figure 2](/assets/media/ea2.jpg)
 
 Ok, so if you are here, that means one of two possible things:
 
@@ -63,14 +63,14 @@ Do you remember something I mentioned in the previous **step**? For the **P.O.C.
 
 As it is a P.O.C., let’s suppose you will be testing a small subset of functionalities from a test item in your organisation, what you can do is to think about your charters, create them and have them available in a tool such as [Trello](https://trello.com), and your board could look something like this:
 
-![Exploratory approach - Figure 3](/assets/ea3.png)
+![Exploratory approach - Figure 3](/assets/media/ea3.png)
 Using such a tool has plenty of benefits, among which we can mention its reach, since it’s online, if you have a distributed team across the globe, the charters from your P.O.C. can be easily shared with your teammates. Otherwise, another way you can do the very same with a team located in the same office it’s through a whiteboard divided in columns, and lots of post-its with the charters in it.
 
 Anyhow, and regardless of your preferred method for generating the charters, one other thing that will help you is assigning values to the charters, and by values, I am referring to **weight**. Take a closer look at the screenshot I shared from a board I created in the tool, the one charter that’s under **TESTED** is \#6, whereas the one charter under **TESTING** is \#5, you get the idea. Basically, the point is to weigh them so you have your priorities in order.
 
 And you may ask, "**Hey, wait a minute… where and how am I supposed to log my test notes?**" Good question! That’s simple, let’s suppose you go for the **first option**, therefore, you make up your mind for using **Trello**. What you have to do is simple, each card has a placeholder for comments, and you can add as many as needed, so that very same space can be used for your **Test Notes**, check the screenshot:
 
-![Exploratory approach - Figure 4](/assets/ea4.png)
+![Exploratory approach - Figure 4](/assets/media/ea4.png)
 
 **"What would happen if you were using the whiteboard with the post-its?"** Well, that’s pretty simple too, make sure to use coloured post-its, so you can use a colour of your choosing for the **Charters** and stick to it, and then, pick a different colour for the **Test notes**, which might also vary in terms of priority using an appropriate colour convention. For example:
 
