@@ -33,11 +33,11 @@ theme:
   show_author_info: true
 
   # Disqus comments manager - shortname
-  # disqus_shortname: gaya-webcreate
+   disqus_shortname: martialtesting
 
   # Google Analytics/Webmaster key, leave blank to ignore
-  google_analytics_key:
-  google_webmaster_key:
+  google_analytics_key:UA-40132135-1
+  #google_webmaster_key:
 
 # Build settings
 markdown: kramdown
