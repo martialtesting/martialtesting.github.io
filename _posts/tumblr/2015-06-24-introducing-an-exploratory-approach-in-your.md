@@ -11,6 +11,9 @@ tags:
 - trello
 tumblr_url: http://www.martialtesting.com/post/122310170429/introducing-an-exploratory-approach-in-your
 author: "Andres Curcio"
+redirect_from:
+  - /post/122310170429/introducing-an-exploratory-approach-in-your/
+  - /post/122310170429/
 ---
 ¡Hello to everyone!
 

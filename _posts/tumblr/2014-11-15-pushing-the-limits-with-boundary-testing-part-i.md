@@ -8,6 +8,9 @@ tags:
 - boundaries
 tumblr_url: http://www.martialtesting.com/post/102686268074/pushing-the-limits-with-boundary-testing-part-i
 author: "Andres Curcio"
+redirect_from:
+  - /post/102686268074/
+  - /post/102686268074/pushing-the-limits-with-boundary-testing-part-i/
 ---
 As testers, we are often faced with a challenging task, and that is modeling our application under test through a critical thinking process.
 

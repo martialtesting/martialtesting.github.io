@@ -10,6 +10,9 @@ tags:
 - celebration
 tumblr_url: http://www.martialtesting.com/post/128748934279/happy-testers-day
 author: "Andres Curcio"
+redirect_from:
+  - /post/128748934279/happy-testers-day/
+  - /post/128748934279/
 ---
 Hello to everyone!
 

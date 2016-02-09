@@ -8,6 +8,9 @@ tags:
 - sixthinkinghat
 - testing
 tumblr_url: http://www.martialtesting.com/post/98365934199/creativity-for-testers-with-six-thinking-hats
+redirect_from:
+  - /post/98365934199/
+  - /post/98365934199/creativity-for-testers-with-six-thinking-hats/
 author: "Andres Curcio"
 ---
 "Creativity is not for testers!"... and now that I have your attention :) let’s move to the real post.  

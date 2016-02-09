@@ -13,6 +13,9 @@ tags:
 - community
 tumblr_url: http://www.martialtesting.com/post/117231621199/testinguy-2-one-event-and-two-days-dedicated-to
 author: "Andres Curcio"
+redirect_from:
+  - /post/117231621199/
+  - /post/117231621199/testinguy-2-one-event-and-two-days-dedicated-to/
 ---
 
 Last week, on April the 13th and April the 14th took place one of the most important events in terms of software testing, I am talking about the [Testing UY 2](http://www.testing.uy), and just like with its first edition I had the chance to attend it.

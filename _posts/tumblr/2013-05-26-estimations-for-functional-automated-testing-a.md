@@ -9,6 +9,9 @@ tags:
 - planning
 tumblr_url: http://www.martialtesting.com/post/98367139739/estimations-for-functional-automated-testing-a
 author: "Ignacio Esmite"
+redirect_from:
+  - /post/98367139739/
+  - /post/98367139739/estimations-for-functional-automated-testing-a
 ---
 Probably one of the most complicated problems to solve when planning a project for automation, it’s related to estimating the amount of time it will take us completing our backlog. In the event we are planning for a project then it might be a little less of a problem if we are working with Agile methodologies because we can adjust estimated times, however, provided we are not working with neither a methodology nor a framework, then improving our estimation process, and thus, our margin for error may prove a difficult task.
 

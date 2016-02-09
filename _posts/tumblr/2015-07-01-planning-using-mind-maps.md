@@ -10,6 +10,9 @@ tags:
 - adapting
 tumblr_url: http://www.martialtesting.com/post/122916189724/planning-using-mind-maps
 author: "Ignacio Esmite"
+redirect_from:
+  - /post/122916189724/planning-using-mind-maps/
+  - /post/122916189724/
 ---
 Hello to everyone! Today we’ll continue with the series of post related to [Mind Maps in Testing]({% post_url 2015-06-15-mind-mapping-in-testing%}). Last time we did a kick off describing some areas where the mind maps can be useful. Today it’s time to go deeper in the area of planning using mind maps.
 

@@ -9,6 +9,9 @@ tags:
 - meaning
 tumblr_url: http://www.martialtesting.com/post/119798780169/thoughts-on-exploratory-testing-digging-a-little
 author: "Andres Curcio"
+redirect_from:
+  - /post/119798780169/thoughts-on-exploratory-testing-digging-a-little/
+  - /post/119798780169/
 ---
 Before I begin with this post, I cannot help to feel the need of sharing with you a little bit about myself. My name is [Andrés R. Curcio](https://www.linkedin.com/in/andrescurcio), and I’ve been in IT for over 10 years now, and 7 years working in Testing.
 

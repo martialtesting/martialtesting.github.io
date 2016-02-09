@@ -6,6 +6,9 @@ tags:
 - testing role information context
 tumblr_url: http://www.martialtesting.com/post/116255912029/what-is-the-role-of-a-tester
 author: "Andres Curcio"
+redirect_from:
+  - /post/116255912029/
+  - /post/116255912029/what-is-the-role-of-a-tester/
 ---
 
 **What is the role of a tester?** That's a question I've pondered about several times, are we supposed to just break things? to spot fallacies? to think negatively?

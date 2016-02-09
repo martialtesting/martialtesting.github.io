@@ -52,6 +52,11 @@ gems:
   - jekyll-coffeescript
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
 paginate_path: "page:num"
 
 # Files/Folders to be excluded from generated _site folder

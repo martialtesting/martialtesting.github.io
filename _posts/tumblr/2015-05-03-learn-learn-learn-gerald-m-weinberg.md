@@ -11,6 +11,9 @@ tags:
 - reading
 tumblr_url: http://www.martialtesting.com/post/118033814114/learn-learn-learn-gerald-m-weinberg
 author: "Andres Curcio"
+redirect_from:
+  - /post/118033814114/
+  - /post/118033814114/learn-learn-learn-gerald-m-weinberg/
 ---
 
 >"The more that you read, the more things you will know. The more that you learn, the more places you’ll go."" ― Dr. Seuss, I Can Read With My Eyes Shut!

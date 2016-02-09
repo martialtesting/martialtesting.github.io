@@ -12,6 +12,9 @@ tags:
 - exploratory
 tumblr_url: http://www.martialtesting.com/post/119419374874/thoughts-on-exploratory-testing-the-white-belt
 author: "Andres Curcio"
+redirect_from:
+  - /post/119419374874/
+  - /post/119419374874/thoughts-on-exploratory-testing-the-white-belt/
 ---
 ¡Hello! This week we will be releasing more posts to make it up to you for not having been present in the previous weeks.
 

@@ -6,6 +6,9 @@ tags:
 - softwaretesting measurements metrics validity
 tumblr_url: http://www.martialtesting.com/post/115720041459/metrics-white-belt-validity-and-measurements
 author: "Andres Curcio"
+redirect_from:
+  - /post/115720041459/
+  - /post/115720041459/metrics-white-belt-validity-and-measurements/
 ---
 ¡Hey! We are back.As promised, in our last post we said we would be  a series of posts on Metrics, we are starting out with the white belt
 

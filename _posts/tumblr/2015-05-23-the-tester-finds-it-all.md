@@ -11,6 +11,9 @@ tags:
 - agile testing
 tumblr_url: http://www.martialtesting.com/post/119699310769/the-tester-finds-it-all
 author: "Andres Curcio"
+redirect_from:
+  - /post/119699310769/
+  - /post/119699310769/the-tester-finds-it-all/
 ---
 Not long ago, I came across with a very funny song, which, for some reason(s) seems dead accurate.
 

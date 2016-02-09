@@ -10,6 +10,9 @@ tags:
 - session
 tumblr_url: http://www.martialtesting.com/post/120409682044/session-based-exploratory-testing-a-first
 author: "Andres Curcio"
+redirect_from:
+  - /post/120409682044/session-based-exploratory-testing-a-first/
+  - /post/120409682044/
 ---
 Hello! In our previous posts, we began [talking about Exploratory Testing]({% post_url 2015-05-20-thoughts-on-exploratory-testing-the-white-belt %}), and afterwards, [defining it along with exploration]({% post_url 2015-05-24-thoughts-on-exploratory-testing-digging-a-little %}).
 

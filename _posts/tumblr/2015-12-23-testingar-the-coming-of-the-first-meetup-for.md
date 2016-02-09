@@ -12,7 +12,9 @@ tags:
 - testing
 tumblr_url: http://www.martialtesting.com/post/135782117454/testingar-the-coming-of-the-first-meetup-for
 author: "Andres Curcio"
-
+redirect_from:
+  - /post/135782117454/testingar-the-coming-of-the-first-meetup-for/
+  - /post/135782117454/
 ---
 ![Testing Meetup](/assets/media/meetup.png)
 

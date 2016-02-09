@@ -9,6 +9,9 @@ tags:
 - stress handling
 tumblr_url: http://www.martialtesting.com/post/120103379259/testing-under-stress
 author: "Ignacio Esmite"
+redirect_from:
+  - /post/120103379259/testing-under-stress/
+  - /post/120103379259/
 ---
 
 >CEO: Hey, how do you feel about the quality of the new model we shipped yesterday?

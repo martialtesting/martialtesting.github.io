@@ -7,6 +7,9 @@ tags:
 - english
 tumblr_url: http://www.martialtesting.com/post/101815605289/destination-testing
 author: "Andres Curcio"
+redirect_from:
+  - /post/101815605289/
+  - /post/101815605289/destination-testing/
 ---
 Finding a suitable definition for something you love is, regardless the activity, somewhat difficult. When I refer to it being as difficult, I am referring to that feeling we all have as we are doing something which makes us feel fulfilled, happy, content, definitely, an array of positive feelings.
 

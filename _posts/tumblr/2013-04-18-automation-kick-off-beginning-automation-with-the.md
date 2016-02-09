@@ -7,6 +7,9 @@ tags:
 - automation
 tumblr_url: http://www.martialtesting.com/post/98366634769/automation-kick-off-beginning-automation-with-the
 author: "Ignacio Esmite"
+redirect_from:
+  - /post/98366634769/
+  - /post/98366634769/automation-kick-off-beginning-automation-with-the/
 ---
 Ok, we decided to introduce automation to our project, so, how do we start? In other words, which is the strategy that we should follow to introduce functional testing automation in our project or organization? The objective of this blog post is to start a series of posts that do not describe how to introduce automation because depends on the context, but instead, the purpose is to describe how to **not** start with automation. Any resemblance to errors in projects I’ve worked on is pure coincidence:)
 <p align="center">
