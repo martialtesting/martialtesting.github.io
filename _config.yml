@@ -4,7 +4,7 @@ tagline: Because Testing is NaN
 email: iesmite@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://martialtesting.github.io" # the base hostname & protocol for your site
+url: "http://martialtesting.com" # the base hostname & protocol for your site
 logourl: /assets/images/logo.png # Site logo
 github:  [metadata]
 # from github documentation
