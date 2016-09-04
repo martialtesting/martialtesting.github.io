@@ -1,6 +1,5 @@
 # Site settings
-source: .
-name: "Martial Testing"
+title: "Martial Testing"
 tagline: Because Testing is NaN
 email: iesmite@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -10,9 +9,12 @@ logourl: /assets/images/logo.png # Site logo
 github:  [metadata]
 # from github documentation
 lsi: false
-safe: false
+safe: true
 incremental: false
 highlighter: rouge
+gist:
+ noscript: false
+# //from github documentation
 
 # Theme customization - please change from the defaults!
 theme:
@@ -38,6 +40,8 @@ theme:
   google_analytics_key: "UA-40132135-1"
   #google_webmaster_key:
 
+# Build settings
+markdown: kramdown
 
 # Permalinks
 permalink:        pretty
@@ -69,3 +73,7 @@ exclude:
 sass:
   sass_dir: assets/css/_sass
   style: :compressed
+
+kramdown:
+ input: GFM
+ hard_wrap: false
