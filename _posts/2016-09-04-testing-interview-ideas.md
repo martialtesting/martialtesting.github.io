@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Testing Interview Ideas'
-date: '2013-05-26T00:49:00-03:00'
+title: Testing Interview Ideas
+date: '2016-09-04T00:49:00-03:00'
 tags:
 - testing
 - automation
