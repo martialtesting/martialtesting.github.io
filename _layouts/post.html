@@ -53,16 +53,16 @@ layout: default
   {% endif %}
 
   <div class="author-info">
-    {% if site.theme.show_author_info %}
+    {% if site.theme-mt.show_author_info %}
       {% include author.html %}
     {% endif %}
 
-    {% if site.theme.show_share_buttons %}
+    {% if site.theme-mt.show_share_buttons %}
       {% include share-buttons.html %}
     {% endif %}
   </div>
 
-  {% if site.theme.comments %}
+  {% if site.theme-mt.comments %}
     <div class="comments">
         <a href="javascript:;" class="load-view">View Comments...</a>
         <div id="disqus_thread"></div>
