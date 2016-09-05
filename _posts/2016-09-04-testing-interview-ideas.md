@@ -21,6 +21,6 @@ After some discussions in [testers.io](http://www.testers.io/) about hiring, and
 
 In case anyone would want the original file, to open it in [mindmup](https://www.mindmup.com), just ping me on [Twitter](https://twitter.com/nachoesmite) or any other media :)
 
-![938a41e055120134530a1775539b39bb](https://cloud.githubusercontent.com/assets/659851/18233915/987f125a-72cb-11e6-910a-aaf7b98f406e.png)
+![3202676055340134530a1775539b39bb](https://cloud.githubusercontent.com/assets/659851/18235120/3b397906-72ed-11e6-9433-e932a5f31491.png)
 
 **Lastly, the lack of colors in the mindmap is b/c I use a state plugin to add colors throughout the interview itself ;)**
